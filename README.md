@@ -10,7 +10,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Castillo Flores, Ángel]()
 * [Cerezo Bonilla, Manuel Trinidad]()
 * [Chaparro Barese, Gonzalo Iván]()
-* [Cumpián Díaz, Juan]()
+* [Cumpián Díaz, Juan](https://github.com/juancumpian)
 * [Durán Postigo, Feliciano]()
 * [Gálvez Martín, Andrés Manuel]()
 * [García Domínguez, Sergio]()
