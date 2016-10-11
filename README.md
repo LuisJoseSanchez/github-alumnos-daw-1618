@@ -6,7 +6,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Alcántara Baldasquín, Manuel](https://github.com/ManuelAlcantaraBaldasquin)
 * [Alcaraz Bravo, Jorge](https://github.com/JorgeAlcarazKuv)
 * [Bello Jiménez, Joaquín](https://github.com/JoaquinBelloJimenez)
-* [Benítez Vargas, María Margarita]()
+* [Benítez Vargas, María Margarita](https://github.com/MMARGARITARBV)
 * [Burgos Villasana, Mario]()
 * [Castillo Flores, Ángel]()
 * [Cerezo Bonilla, Manuel Trinidad]()
