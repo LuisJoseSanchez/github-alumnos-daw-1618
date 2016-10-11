@@ -3,7 +3,7 @@
 Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrollo de Aplicaciones Web** del **IES Campanillas** de la **promoción 2016 - 2018**.
 
 * [Aguilar Escudero, Adrián](https://github.com/AdrianAguilarEscudero7)
-* [Alcántara Baldasquín, Manuel]()
+* [Alcántara Baldasquín, Manuel](https://github.com/ManuelAlcantaraBaldasquin)
 * [Bello Jiménez, Joaquín]()
 * [Benítez Vargas, María Margarita]()
 * [Burgos Villasana, Mario]()
