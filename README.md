@@ -14,7 +14,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Cumpián Díaz, Juan](https://github.com/juancumpian)
 * [Durán Postigo, Feliciano]()
 * [Gálvez Martín, Andrés Manuel]()
-* [García Domínguez, Sergio]()
+* [García Domínguez, Sergio](https://github.com/SergioGarciaDominguez)
 * [García Toledo, Fátima]()
 * [Lobato Botelho, Lucas]()
 * [López Molina, Ángel]()
