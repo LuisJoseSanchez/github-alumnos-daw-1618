@@ -21,7 +21,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Martín Castro, Jesús]()
 * [Martín Garcés, Raúl]()
 * [Martín Hidalgo, José Miguel]()
-* [Martín Pérez, David]()
+* [Martín Pérez, David](https://github.com/DavidMartinPerez)
 * [Postigo Martínez, Juan Pedro]()
 * [Rodríguez Padilla, Antonio]()
 * [Romero Montanary, Jorge]()
