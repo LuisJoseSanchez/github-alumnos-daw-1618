@@ -24,6 +24,6 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Martín Garcés, Raúl](https://github.com/Raulmartin11)
 * [Martín Hidalgo, José Miguel](https://github.com/josemiguex)
 * [Martín Pérez, David](https://github.com/DavidMartinPerez)
-* [Postigo Martínez, Juan Pedro]()
+* [Postigo Martínez, Juan Pedro](https://github.com/ZikGhy)
 * [Rodríguez Padilla, Antonio](https://github.com/Antoniorp80)
 * [Zambrana Ruiz, Germán](https://github.com/GermanZambrana)
