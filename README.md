@@ -21,6 +21,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [León Galisteo, David](https://github.com/Dadvanced)
 * [Lobato Botelho, Lucas](https://github.com/LucasLob)
 * [López Molina, Ángel](https://github.com/almAngel)
+* [Maldonado González, Ismael](https://github.com/IsmaelMaldo)
 * [Martín Castro, Jesús](https://github.com/Jesusmc82)
 * [Martín Garcés, Raúl](https://github.com/Raulmartin11)
 * [Martín Hidalgo, José Miguel](https://github.com/josemiguex)
