@@ -9,7 +9,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Benítez Vargas, María Margarita](https://github.com/MMARGARITARBV)
 * [Casasola Cano, Francisco](https://github.com/FranciscoCasasola)
 * [Castillo Flores, Ángel](https://github.com/AngelCastilloFlores)
-* [Cerezo Bonilla, Manuel Trinidad](https://github.com/ManuelCerezoBonilla)
+* [Cerezo Bonilla, Manuel Trinidad](https://github.com/manueldevjour)
 * [Chaparro Barese, Gonzalo Iván](https://github.com/gonzaloivan121)
 * [Cumpián Díaz, Juan](https://github.com/juancumpian)
 * [Durán Postigo, Feliciano](https://github.com/FelicianoDuran)
