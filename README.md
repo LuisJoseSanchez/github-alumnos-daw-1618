@@ -17,6 +17,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Gálvez Martín, Andrés Manuel](https://github.com/Pocyx)
 * [García Domínguez, Sergio](https://github.com/SergioGarciaDominguez)
 * [García Toledo, Fátima](https://github.com/Satmin13)
+* [Giménez de la Cuesta, Juan](https://github.com/JuanGimenez)
 * [Jiménez Brenes, Pedro](https://github.com/PedroJimenez98)
 * [León Galisteo, David](https://github.com/Dadvanced)
 * [Lobato Botelho, Lucas](https://github.com/LucasLob)
